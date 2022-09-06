@@ -26,12 +26,12 @@ I feel more comfortable working on backend tasks although I enjoy working on fro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="20" height="20"/>&nbsp;
 
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>     
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/GithubActions-181717?style=flat-square&logo=Git&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt=""/> 
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white" width="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" width="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white" width="40"/>&nbsp;  
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" width="40"/>&nbsp;
+<img src="https://img.shields.io/badge/GithubActions-181717?style=flat-square&logo=Git&logoColor=black" width="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="" width="40"/>&nbsp;
 </p>
 
 ---
